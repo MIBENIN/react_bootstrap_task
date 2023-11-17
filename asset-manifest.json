@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react_bootstrap_task/static/css/main.9c193c20.css",
+    "main.js": "/react_bootstrap_task/static/js/main.d1fe6fe7.js",
+    "static/js/787.b436d1fc.chunk.js": "/react_bootstrap_task/static/js/787.b436d1fc.chunk.js",
+    "static/media/newyork.jpg": "/react_bootstrap_task/static/media/newyork.a6f6261e7018567323f0.jpg",
+    "static/media/paris.jpg": "/react_bootstrap_task/static/media/paris.84c653772f9b5fb87907.jpg",
+    "static/media/london.jpg": "/react_bootstrap_task/static/media/london.19cfbfadfa7fa52c0b8e.jpg",
+    "static/media/tokyo.jpg": "/react_bootstrap_task/static/media/tokyo.d84b168734e0194e8c31.jpg",
+    "static/media/travel_company_logo.png": "/react_bootstrap_task/static/media/travel_company_logo.eee126e43934703cab26.png",
+    "index.html": "/react_bootstrap_task/index.html",
+    "main.9c193c20.css.map": "/react_bootstrap_task/static/css/main.9c193c20.css.map",
+    "main.d1fe6fe7.js.map": "/react_bootstrap_task/static/js/main.d1fe6fe7.js.map",
+    "787.b436d1fc.chunk.js.map": "/react_bootstrap_task/static/js/787.b436d1fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c193c20.css",
+    "static/js/main.d1fe6fe7.js"
+  ]
+}
